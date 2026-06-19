@@ -1,16 +1,135 @@
-# React + Vite
+# 🎓 Educity - React Vite Education Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **Live Demo:** https://your-website-link.com
 
-Currently, two official plugins are available:
+💻 **GitHub Repository:** https://github.com/rasheed007-hub/education-website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern education platform built with React and Vite. The website allows students to explore courses, learn from expert instructors, and access educational resources through a clean and responsive interface.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Installation
 
-## Expanding the ESLint configuration
+1. Clone the repository:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/rasheed007-hub/education-website.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd education-website
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Features
+
+- 📚 Browse educational courses
+- 👨‍🏫 Instructor profiles
+- 🔍 Search for courses
+- 📱 Fully responsive design
+- ⚡ Fast performance with Vite
+- 🎨 Modern and user-friendly interface
+- 📞 Contact section for inquiries
+
+---
+
+## Available Scripts
+
+### Run Development Server
+
+```bash
+npm run dev
+```
+
+Runs the application in development mode.
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+Builds the application for production.
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+Previews the production build locally.
+
+---
+
+## How to Use
+
+1. Open the website.
+2. Browse available courses.
+3. View course details.
+4. Learn about instructors.
+5. Contact the team through the contact section.
+
+---
+
+## Project Structure
+
+```text
+src/
+├── assets/         # Images and icons
+├── components/     # Reusable components
+├── pages/          # Website pages
+├── App.jsx         # Main application component
+├── main.jsx        # Application entry point
+└── index.css       # Global styles
+```
+
+---
+
+## Technologies Used
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## Future Improvements
+
+- User Authentication
+- Student Dashboard
+- Course Enrollment System
+- Video Lessons
+- Certificate Generation
+- Payment Integration
+
+---
+
+## Author
+
+**AbdulRasheed Oduola**
+
+- Email: rasheedoduola007@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdulrasheed-oduola-40ba16296
+
+---
+
+## License
+
+This project is licensed under the MIT License.
