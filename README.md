@@ -1,6 +1,6 @@
 # 🎓 Educity - React Vite Education Website
 
-🌐 **Live Demo:** uni-edusity.netlify.app
+🌐 **Live Demo:** [uni-edusity.netlify.app](https://uni-edusity.netlify.app/)
 
 💻 **GitHub Repository:** https://github.com/rasheed007-hub/education-website
 
