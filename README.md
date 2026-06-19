@@ -110,26 +110,9 @@ src/
 
 ---
 
-## Future Improvements
-
-- User Authentication
-- Student Dashboard
-- Course Enrollment System
-- Video Lessons
-- Certificate Generation
-- Payment Integration
-
----
-
 ## Author
 
 **AbdulRasheed Oduola**
 
 - Email: rasheedoduola007@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdulrasheed-oduola-40ba16296
-
----
-
-## License
-
-This project is licensed under the MIT License.
